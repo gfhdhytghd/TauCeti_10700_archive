@@ -3340,6 +3340,119 @@
     "source": "x_api_timeline",
     "source_auth": "x_api_oauth1:env.pale-fire",
     "timeline_user": "TauCeti_10700",
-    "fetched_at": "2026-04-18T07:19:48Z"
+    "fetched_at": "2026-04-18T07:19:48Z",
+    "x_api_reply_chains": {
+      "2032449623214920118": {
+        "version": 1,
+        "fetched_at": "2026-04-18T16:47:37Z",
+        "max_depth": 1,
+        "posts": [
+          {
+            "id": "2032449623214920118",
+            "source": "x_api_oauth1:env.pale-fire",
+            "payload": {
+              "data": {
+                "id": "2032449623214920118",
+                "text": "人类已经繁衍了数千代，而你却有幸见证了另一个世界的第一张日落照片，这是火星日落的真实照片。 https://t.co/46hv8jjf5J",
+                "public_metrics": {
+                  "retweet_count": 140,
+                  "reply_count": 35,
+                  "like_count": 2745,
+                  "quote_count": 6,
+                  "bookmark_count": 195,
+                  "impression_count": 93832
+                },
+                "attachments": {
+                  "media_keys": [
+                    "3_2032449620794810368"
+                  ]
+                },
+                "lang": "zh",
+                "edit_controls": {
+                  "edits_remaining": 5,
+                  "is_edit_eligible": true,
+                  "editable_until": "2026-03-13T14:32:05.000Z"
+                },
+                "reply_settings": "everyone",
+                "edit_history_tweet_ids": [
+                  "2032449623214920118"
+                ],
+                "possibly_sensitive": false,
+                "conversation_id": "2032449623214920118",
+                "entities": {
+                  "urls": [
+                    {
+                      "start": 46,
+                      "end": 69,
+                      "url": "https://t.co/46hv8jjf5J",
+                      "expanded_url": "https://x.com/miantiaozi7/status/2032449623214920118/photo/1",
+                      "display_url": "pic.x.com/46hv8jjf5J",
+                      "media_key": "3_2032449620794810368"
+                    }
+                  ]
+                },
+                "created_at": "2026-03-13T13:32:05.000Z",
+                "author_id": "1851095477275803648"
+              },
+              "includes": {
+                "media": [
+                  {
+                    "media_key": "3_2032449620794810368",
+                    "height": 640,
+                    "url": "https://pbs.twimg.com/media/HDS2KWdaIAApkUb.jpg",
+                    "width": 516,
+                    "type": "photo"
+                  }
+                ],
+                "users": [
+                  {
+                    "protected": false,
+                    "verified": false,
+                    "location": "吉林",
+                    "id": "1851095477275803648",
+                    "url": "https://t.co/yuwj4xiOO7",
+                    "entities": {
+                      "url": {
+                        "urls": [
+                          {
+                            "start": 0,
+                            "end": 23,
+                            "url": "https://t.co/yuwj4xiOO7",
+                            "expanded_url": "https://www.instagram.com/xinpengjilin/",
+                            "display_url": "instagram.com/xinpengjilin/"
+                          }
+                        ]
+                      },
+                      "description": {
+                        "mentions": [
+                          {
+                            "start": 47,
+                            "end": 54,
+                            "username": "linfyc"
+                          }
+                        ]
+                      }
+                    },
+                    "description": "汉左将军，宜城亭侯，领豫州牧。热爱中华文化，喜欢文学历史科学，爱足球爱读书爱电影，防失联小号 @linfyc",
+                    "public_metrics": {
+                      "followers_count": 8814,
+                      "following_count": 7208,
+                      "tweet_count": 6784,
+                      "listed_count": 12,
+                      "like_count": 8034,
+                      "media_count": 3864
+                    },
+                    "username": "miantiaozi7",
+                    "profile_image_url": "https://pbs.twimg.com/profile_images/1851100042960257026/JQSAI2EK_normal.jpg",
+                    "name": "面条子坨了",
+                    "created_at": "2024-10-29T02:55:41.000Z"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
   }
 }
