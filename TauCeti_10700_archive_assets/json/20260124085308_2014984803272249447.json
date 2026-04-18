@@ -3413,7 +3413,7 @@
                     "media_key": "3_2014656790777249792",
                     "public_metrics": {},
                     "type": "photo",
-                    "url": "https://pbs.twimg.com/media/G_V_rVabQAAe0Fz.jpg",
+                    "url": "https://pbs.twimg.com/media/G_V_rVabQAAriE-.jpg",
                     "width": 1206
                   },
                   {
@@ -3421,7 +3421,7 @@
                     "media_key": "3_2014656790961520643",
                     "public_metrics": {},
                     "type": "photo",
-                    "url": "https://pbs.twimg.com/media/G_V_rWGXAAM0kmH.jpg",
+                    "url": "https://pbs.twimg.com/media/G_V_rWGXAAMtme-.jpg",
                     "width": 1206
                   },
                   {
@@ -6964,6 +6964,8 @@
           }
         ]
       }
-    }
+    },
+    "media_url_refreshed_at": "2026-04-18T08:30:56Z",
+    "media_url_refresh_source": "local_media_key_index"
   }
 }

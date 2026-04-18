@@ -350,7 +350,7 @@
                     "media_key": "3_1985746877418020864",
                     "public_metrics": {},
                     "type": "photo",
-                    "url": "https://pbs.twimg.com/media/G47KQ5pXoAAc4NY.jpg",
+                    "url": "https://pbs.twimg.com/media/G47KQ5pXoAAZECI.jpg",
                     "width": 4096
                   }
                 ],
@@ -441,6 +441,8 @@
           }
         ]
       }
-    }
+    },
+    "media_url_refreshed_at": "2026-04-18T08:30:56Z",
+    "media_url_refresh_source": "local_media_key_index"
   }
 }
